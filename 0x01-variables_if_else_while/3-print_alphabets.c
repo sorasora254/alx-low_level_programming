@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Description:
+ * Description	:
  * Return: zero always success
  */
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 
 	for (n = 97; n <= 122; n++)
 		putchar(n);
-	for (n = 65; m <= 90; m++)
+	for (m = 65; m <= 90; m++)
 		putchar(n);
 	putchar('\n');
 	return (0);
