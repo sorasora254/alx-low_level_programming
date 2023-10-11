@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 /**
  * main = entry point where code will start its execution
  * Description: function and nested loops
