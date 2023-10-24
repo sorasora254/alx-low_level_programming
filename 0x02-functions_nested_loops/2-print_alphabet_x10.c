@@ -1,10 +1,10 @@
 #include "main.h"
 
-/*
+/**
  *print_alphabet_x10 - program will print the alphabet 10_time
- *Description:ten times alphabet
  *Return: void
  */
+
 void print_alphabet_x10(void)
 {
 
