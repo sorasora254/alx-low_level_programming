@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main = entry point for code execution
+ * main - entry point for code execution
  * Descripton: use of putchar
  * Return: success zero
  */
